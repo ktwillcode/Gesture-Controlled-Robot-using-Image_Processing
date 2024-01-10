@@ -80,8 +80,10 @@ pip install pyserial
 ## **Media Files**
 
 - **Photos:**
-    - ![Robot Car Image](/Image-robo.jpg)
+    - [Robot Car Image](/Image-robo.jpg)
     
+## **License**
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## **Future Development**
 In the next stages of development, we plan to incorporate communication via RF modules or Bluetooth to enhance the robot's control and mobility.
