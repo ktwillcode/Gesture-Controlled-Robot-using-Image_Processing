@@ -58,6 +58,9 @@ Install these libraries using the following commands:
 pip install opencv-python
 pip install mediapipe
 pip install pyserial
+```
+
+
 ## **Instructions for Use**
 
 1. **Setting up the Hardware:**
@@ -71,7 +74,7 @@ pip install pyserial
 
 3. **Uploading Arduino Code:**
     - Open the Arduino IDE and upload the code from the `arduino_code/` folder to the Arduino Uno.
-    - Ensure the serial communication settings match between the Arduino code and the laptop.
+    - Ensure the serial communication settings match the Arduino code and the laptop.
 
 4. **Connecting and Testing:**
     - Connect the laptop and Arduino Uno via a USB long wire (serial connection).
